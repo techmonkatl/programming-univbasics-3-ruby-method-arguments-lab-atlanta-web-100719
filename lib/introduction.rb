@@ -6,9 +6,9 @@ name = "Bronze"
 def introduction(name)
   puts "Hi, My name is #{name}"
 end
-
+language = "Ruby"
 def intorduction_with_language(name, language)
-  puts 
+  puts "Hi, my name is #{name} and I am learning to program in {Ruby}"
 
 
 
